@@ -28,7 +28,7 @@
   },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "dev": "webpack --watch & webpack-dev-server --content-base docs --inline --hot"
+    "dev": "webpack --watch & webpack-dev-server --inline --hot"
   },
   "keywords": [],
   "author": "",
