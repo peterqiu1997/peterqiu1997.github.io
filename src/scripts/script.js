@@ -18,6 +18,6 @@ $(document).ready(function() {
             $(".personal__sub").text(descriptions[i][1]).fadeIn(400);
         });
         i = (i + 1) % descriptions.length;
-    }, 2000);
+    }, 1500);
     
 });
