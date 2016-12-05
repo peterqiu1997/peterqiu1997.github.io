@@ -35,7 +35,7 @@ export default class App extends React.Component {
           </div>
           <div class="description__subtitle contact">
             Here's my <a class="resume" href="resume.pdf" target="_blank"><b>resumé</b></a>. 
-            Here's some <a class="music" href="https://www.facebook.com/peterqiu1997/videos_by"><b>music</b></a>. Feel free to reach out! &nbsp;&nbsp;
+            Here's some <a class="music" href="https://www.facebook.com/peterqiu1997/videos_by" target="_blank"><b>music</b></a>. Feel free to reach out! &nbsp;&nbsp;
             <a href="mailto:yingchong.qiu@berkeley.edu"><i class="fa fa-envelope">&nbsp;&nbsp;&nbsp;</i></a> 
             <a href="https://github.com/peterqiu1997"><i class="fa fa-github">&nbsp;&nbsp;&nbsp;</i></a> 
             <a href="http://www.stackoverflow.com/users/3775886/peter-qiu"><i class="fa fa-stack-overflow">&nbsp;&nbsp;&nbsp;</i></a> 
