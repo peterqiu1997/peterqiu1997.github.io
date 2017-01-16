@@ -1,11 +1,11 @@
 var descriptions = [
     ["a maker", "of better descriptions than maker."],
-    ["a musician", "and percussive fingerstyle enthusiast."],
+    ["a percussive fingerstyle guitarist", "a mouthful."],
     ["a cook", "in the loosest sense of the word."],
-    ["a creator", "turning daydreams into real things."],
+    ["a tinkerer", "break it to make it."],
     ["a player", "of the instrumental type."],
     ["a designer", "putting user experience first."],
-    ["a programmer", "typing a new tomorrow."]
+    ["a programmer", "playing the keyboard."]
 ]
 
 $(document).ready(function() {
@@ -18,6 +18,6 @@ $(document).ready(function() {
             $(".personal__sub").text(descriptions[i][1]).fadeIn(400);
         });
         i = (i + 1) % descriptions.length;
-    }, 2000);
+    }, 2250);
     
 });
